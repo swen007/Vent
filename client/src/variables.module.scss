@@ -1,0 +1,19 @@
+$primary: #5b506b;
+$bg: #2f282d;
+$text: #f7f6f4;
+$secondary: #a7745b;
+$info: #2f282d;
+$success: #519358;
+$warning: #ce8220;
+$error: #f44336;
+
+:export {
+    primary: $primary;
+    bg: $bg;
+    text: $text;
+    secondary: $secondary;
+    info: $info;
+    success: $success;
+    warning: $warning;
+    error: $error;
+}
